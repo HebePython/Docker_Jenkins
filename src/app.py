@@ -7,5 +7,8 @@ def main():
 
     print("Testing automated POLLSCM")
 
+
+    print("Test SCM update again")
+
 if __name__ == "__main__":
     main()
